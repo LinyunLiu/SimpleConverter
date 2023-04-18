@@ -1,7 +1,7 @@
 # Simple Converter GUI in JavaFX
 *A MacOS bundle application is included in this repository, feel free to download the dmg file*.  
-*The application may not run on Apple M seriers chip*.   
-*Java installation is also requied*. 
+*The application may not run on Apple silicon chip*.   
+*Java installation is also required*. 
 
 ## JavaFX required:
 https://gluonhq.com/products/javafx/
